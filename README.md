@@ -1,6 +1,6 @@
 # nodemcu.webServer
 
-![serial-monitor](serial-monitor.png)
+![serial-monitor](demo/serial-monitor.png)
 
 With this NodeMCU project, I will attempt to
 
